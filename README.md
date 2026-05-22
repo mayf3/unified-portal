@@ -1,5 +1,7 @@
 # OpenClaw 统一登录门户
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 内部工具平台统一入口，提供 SSO 登录和平台导航能力。
 
 ## 功能

@@ -30,12 +30,12 @@ npm run build  # 生产构建
 
 | 平台 | 地址 | 状态 |
 |------|------|------|
-| AgentDev 开发中心 | http://<SERVER_IP> | ✅ |
-| LLM Todo | http://<SERVER_IP>:8720 | ✅ |
-| 技能商城 | http://<SERVER_IP>:3456 | ✅ |
-| 播客制作控制台 | http://<SERVER_IP>:53821 | ✅ |
-| 多平台数据看板 | http://<SERVER_IP>:3457 | ✅ |
-| 商业探索者 | http://<SERVER_IP>:34567 | ✅ |
-| 账号管理看板 | http://<SERVER_IP>:18890 | ✅ |
-| 宝宝成长追踪 | http://<SERVER_IP>:3460 | ✅ |
+| AgentDev 开发中心 | <SERVER_IP> | ✅ |
+| LLM Todo | <SERVER_IP>:8720 | ✅ |
+| 技能商城 | <SERVER_IP>:3456 | ✅ |
+| 播客制作控制台 | <SERVER_IP>:53821 | ✅ |
+| 多平台数据看板 | <SERVER_IP>:3457 | ✅ |
+| 商业探索者 | <SERVER_IP>:34567 | ✅ |
+| 账号管理看板 | <SERVER_IP>:18890 | ✅ |
+| 宝宝成长追踪 | <SERVER_IP>:3460 | ✅ |
 | 深度研究需求管理 | # | 🟡 维护中 |
